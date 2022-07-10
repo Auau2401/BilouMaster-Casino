@@ -1,0 +1,9 @@
+name: BilouMaster-Casino
+version: '1.0'
+main: de.auau2401.casinobiloumaster.Casino
+api-version: 1.18
+authors: [ Auau2401 ]
+description: Casino Plugin für den BilouMaster Server
+website: auau2401.de
+commands:
+  testpaper:
